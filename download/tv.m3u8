@@ -1,0 +1,379 @@
+#EXTM3U
+#EXTINF:-1, tvg-name="CCTV1" group-title="【央视】高清" tvg-logo="https://i.loli.net/2019/10/13/BG4Js7PWSICD1bd.png",cctv1央视综合
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1, tvg-name="CCTV2" tvg-logo="https://i.loli.net/2019/10/13/bUkPNiFyKaLA7mY.png",cctv2央视经济
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1, tvg-name="CCTV3" tvg-logo="https://i.loli.net/2019/10/13/nkCJ6EOGa3SVgLX.png",cctv3央视综艺
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1, tvg-name="CCTV4" tvg-logo="https://i.loli.net/2019/10/13/R4YgqUwNvKAaxX5.png",cctv4中文国际
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1, tvg-name="CCTV5" tvg-logo="https://i.loli.net/2019/10/13/zuBdTV4nGWEXbjo.png",cctv5+央视体育
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1, tvg-name="CCTV6" tvg-logo="https://i.loli.net/2019/10/13/R8bU4koYLQlEwX7.png",cctv6央视电影
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1, tvg-name="CCTV7" tvg-logo="https://i.loli.net/2019/10/13/sUey8jzCSWomE4Q.png",cctv7央视兵农
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1, tvg-name="CCTV8" tvg-logo="https://i.loli.net/2019/10/13/zaASBVpZvHJmRWt.png",cctv8央视剧集
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1, tvg-name="CCTV9" tvg-logo="https://i.loli.net/2019/10/13/xTnDcsVSg4H67M9.png",cctv9央视记录
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1, tvg-name="CCTV10" tvg-logo="https://i.loli.net/2019/10/13/Dmuw7PIhF2HYn4g.png",cctv10央视科教
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1, tvg-name="CCTV11" tvg-logo="https://i.loli.net/2019/10/13/IfvRXwQpekstTur.png",cctv11央视戏曲
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1, tvg-name="CCTV12" tvg-logo="https://i.loli.net/2019/10/13/12FNHGzUQ5rAlva.png",cctv12央视社会与法
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1, tvg-name="CCTV13" tvg-logo="https://i.loli.net/2019/10/13/AplBwYS27XNqDU4.png",cctv13央视新闻
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1, tvg-name="CCTV14" tvg-logo="https://i.loli.net/2019/10/13/GRae3kFMShzKWOA.png",cctv14央视少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1, tvg-name="CCTV15" tvg-logo="https://i.loli.net/2019/10/13/xwYB5gujWNckOAl.png",cctv15央视音乐
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+
+#EXTINF:-1, tvg-name="" group-title="【地区】卫视" tv-logo="https://i.loli.net/2020/08/20/Ah7zDqialfVvQNZ.png",北京卫视
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/19/329AnRiuc8HalJS.png",陕西卫视
+http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/x3oRy9WT87Efqzj.png",深圳卫视
+http://ivi.bupt.edu.cn/hls/sztv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/ojWfrCzI2ODeSBg.png",安徽卫视
+http://ivi.bupt.edu.cn/hls/ahtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/pGZTR2Bx4S8AjLV.png",河南卫视
+http://ivi.bupt.edu.cn/hls/hntv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/5ACKasuPejE6XO7.png",吉林卫视
+http://ivi.bupt.edu.cn/hls/jltv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/ZglABWzPD68voMf.png",广东卫视
+http://ivi.bupt.edu.cn/hls/gdtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/JB2GvckqbLIplXQ.png",山东卫视
+http://ivi.bupt.edu.cn/hls/sdtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/c3WUwxtrkj5aKl2.png",湖北卫视
+http://ivi.bupt.edu.cn/hls/hbtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/TqxSkL6Cn3iGdfW.png",广西卫视
+http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/XzlmRFVtKjapA8W.png",河北卫视
+http://ivi.bupt.edu.cn/hls/hebtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/cbPj7eztF1ZykK2.png",西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/A6fjEWvbRpDhNLH.png",内蒙古卫视
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/BQjlrh53aMg4vCp.png",青海卫视
+http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/17i2HbZFQ4fmYsD.png",四川卫视
+http://ivi.bupt.edu.cn/hls/sctv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/1R7AzjmO64ba2ug.png",江苏卫视
+http://ivi.bupt.edu.cn/hls/jstv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/vLh3925s1z6YFGk.png",天津卫视
+http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/zSkEQiwcgXMtCno.png",山西卫视
+http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/4UjWI2Hsu61Q3mT.png",辽宁卫视
+http://ivi.bupt.edu.cn/hls/lntv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/j4JwzB2TQocG7fO.png",厦门卫视
+http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/GKVzhHYSDN1Xau2.png",新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/2Ta6qrMIHgncWVP.png",东方卫视
+http://ivi.bupt.edu.cn/hls/dftv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/j2DqMmY7Utu8kKh.png",黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/ltCf9mdqKL1IwMU.png",湖南卫视
+http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/P5vZbtdr14h6Ruw.png",云南卫视
+http://ivi.bupt.edu.cn/hls/yntv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/Nw56xBbiVGcWYXu.png",江西卫视
+http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/vFt5d1WaLGVJQyH.png",东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/OiCAlZPNVUBjGIk.png",浙江卫视
+http://ivi.bupt.edu.cn/hls/zjtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/6XJSfkMdclG7Rp1.png",贵州卫视
+http://ivi.bupt.edu.cn/hls/gztv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/19/qpDb2vkzKV79r5f.png",宁夏卫视
+http://ivi.bupt.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/19/oLJMEpv2bCQB4wm.png",甘肃卫视
+http://ivi.bupt.edu.cn/hls/gstv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/YKvMGrflPmXhU2t.png",重庆卫视
+http://ivi.bupt.edu.cn/hls/cqtv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/qn1jsBxhM2OwScT.png",兵团卫视
+http://ivi.bupt.edu.cn/hls/bttv.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/npW8Zj2zKdHkoeq.png",旅游卫视
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/jRGEqmiCsPe5Qbg.jpg" group-title="影星专辑",周星驰
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/eLbBlVxh25M3WFT.jpg",周润发
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/l9w5MNU6bK7GeEt.jpg",刘德华
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/pkGAOSCm8jDd9nc.jpg",林正英
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/Rdb9JCo5Vcpehs7.jpg",成龙
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/1UHACZJXYbfolgP.jpg",洪金宝
+https://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/4fdb2YSt96jRDJK.jpg",甄子丹
+http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/RVljSsFIwAzrey8.jpg",李连杰
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/hHNZUI37PYCAOFv.jpg",吴京
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/s1PEmBau7dO2bVn.jpg",徐铮
+http://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://i.loli.net/2019/09/10/2DS1cNfG9MqwruX.jpg",赵本山
+http://ws4.streamhls.huya.com/backsrc/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200/playlist.m3u8
+
+#EXTINF:-1 group-title="直播剧集",爱情公寓
+http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_2000.m3u8
+#EXTINF:-1,使徒行者
+https://aldirect.hls.huya.com/huyalive/28466698-2689652032-11551967515059945472-2847687604-10057-A-1525509264-1_1200.m3u8
+#EXTINF:-1,潜伏
+https://aldirect.hls.huya.com/huyalive/29141112-2689670234-11552045692054667264-3048959590-10057-A-0-1_1200.m3u8
+#EXTINF:-1,琅琊榜
+https://aldirect.hls.huya.com/backsrc/94525224-2604793760-11187504012024872960-2847699160-10057-A-0-1_1200.m3u8
+#EXTINF:-1,亮剑
+https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1,康熙王朝
+https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
+#EXTINF:-1,新三国
+http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1,新水浒
+http://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_1200.m3u8
+#EXTINF:-1,楚汉传奇
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1,神探狄仁杰
+https://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_1200.m3u8
+#EXTINF:-1,少年包青天
+http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+#EXTINF:-1,宝莲灯前传
+http://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
+#EXTINF:-1,倚天屠龙记
+https://aldirect.hls.huya.com/backsrc/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1,大宋提刑官
+https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8
+#EXTINF:-1,铁齿铜牙纪晓岚
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="高清专区",科幻电影
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1,CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,CBN每日影院
+http://42.48.60.248:8082/live/gqts-800k.m3u8
+#EXTINF:-1,环球电影
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1,凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1,凤凰电影（备）
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1,星空电影
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1,星空电影（备）
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+
+
+#EXTINF:-1 group-title="景区Live",全国风景总览
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 ,黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 ,黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+#EXTINF:-1 ,黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 ,黟县西递半山亭俯瞰
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 ,黟县卢村远眺
+https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 ,婺源江岭1
+https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 ,婺源江岭2
+https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 ,黄山始信峰
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8
+#EXTINF:-1 ,黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 ,黄山梦笔生花
+https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8
+#EXTINF:-1 ,黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 ,黄山西海大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8
+#EXTINF:-1 ,黄山光明顶
+https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8
+#EXTINF:-1 ,黄山信兴道
+https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 ,黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 ,黄山飞来石
+https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 ,云台山红石硖
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 ,泰山主峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 ,泰山迎客松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 ,泰山大观峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 ,泰山拱北石
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 ,泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 ,泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 ,泰山天街
+https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 ,云台山小寨沟
+https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 ,云台山百家岩
+https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 ,云台山茱萸峰
+https://gccncc.v.wscdns.com/gc/ytszyf_1/index.m3u8
+#EXTINF:-1 ,武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 ,印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
+#EXTINF:-1 ,武夷山大红袍茶园
+https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 ,张家界迷魂台
+https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 ,张家界水绕4门
+https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 ,张家界将军列队
+https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 ,张家界阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+#EXTINF:-1 ,凤凰古城
+https://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 ,凤凰古城南华山
+https://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 ,卢村远眺
+https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 ,宠村月沼
+https://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 ,少林寺广场
+https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 ,水长城镜头一
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 ,水长城镜头二
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 ,水长城镜头三
+https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 ,水长城镜头四
+https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 ,狮子山鸟瞰古城
+https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 ,远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 ,大研花巷景观台
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 ,峨眉云海日出
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 ,贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 ,远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 ,普贤菩萨像
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 ,乐山大佛全景
+https://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 ,悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 ,恒宗
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 ,悬空寺侧景
+https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 ,天涯鸟瞰
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 ,天涯石
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 ,南天一柱
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 ,日月石
+https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 ,雪乡大石碑
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 ,雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 ,观景台
+https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8
+#EXTINF:-1 ,嘉峪关长城
+https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8
+#EXTINF:-1 ,大水库
+https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 ,中央电视台中塔西
+https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8
+#EXTINF:-1 ,中央电视台中塔东
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 ,中央电视台中塔南
+https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 ,中央电视台中塔北
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 ,小布达拉宫
+https://gcalic.v.myalicdn.com/gc/bsszxbdlg_1/index.m3u8
+#EXTINF:-1 ,棒槌山
+https://gccncc.v.wscdns.com/gc/bsszbcs_1/index.m3u8
+#EXTINF:-1 ,远眺山庄
+https://gcalic.v.myalicdn.com/gc/bssztt_1/index.m3u8
+#EXTINF:-1 ,金山
+https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+
+
+#EXTINF:-1， tvg-name="" group-title="电台广播" tvg-logo="https://i.loli.net/2020/08/20/qCMBZsurgw6PQpt.png" radio=true,中国之声
+http://ngcdn001.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/tQHCTpiEdzJsAKB.png",经济之声
+http://ngcdn002.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/NVkBTEWKUljImGC.png",第一财经
+http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/NfDaJh4pHPGwoLz.png",音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/Xm3nBupV5EfKLUA.png",经典音乐广播
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/p1jZgItmv9MKcBf.png",CRI轻松调频广播
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/cIAf4xsZO8JuvQi.png",中华之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/g8xShjIV2eOsKR1.png",神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/ljQSLNCKIGdqWkZ.png",大湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/o2Tjr8RqFUXDwen.png",香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/I2lKUvaXwJZcfex.png",民族之声
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/hKRbJZrxSYWGdU1.png",文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/GfWlnr5tHSkDPY1.png",老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/sLHflQy2DmWIpPu.png",藏语广播
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/eNAavuRbBotq4QZ.png",维语广播
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/bSyP46Gi2OjcQlU.png",哈语广播
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/X6igjDmvbdZU7SE.png",阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/7mIwLu9Upl3h8qF.png",南海之声
+http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/wAFlktM5y3IGW89.png",中国交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/dIEb93mhcsOgyRJ.png",中国乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/3l7D6v9YOCaXoKz.jpg",古典音乐频道
+http://ngcdn022.cnr.cn/live/gdyy/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/lFQHVL7suedGp9S.png",北京长书广播
+http://cnlive.cnr.cn/hls/bjchangshugb.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/sMSCUaOHDNZBPJk.jpg",长篇联播频道
+http://ngcdn024.cnr.cn/live/cplb/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/3AlHjm5SYUyw2iZ.png",国际流行音乐广播
+http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/lKHOsdNuSMGvr1Q.png",环球资讯广播
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/EH3Br6WcpCIQ4Mx.png",英语资讯广播
+http://cnlive.cnr.cn/hls/yyzxgb.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="https://i.loli.net/2020/08/20/z5ZdHNRSOvcV214.png",怀集音乐之声
+http://cnlive.cnr.cn/hls/hjyyzs.m3u8
+
+
+#EXTINF:-1 group-title="音乐MV",外语MV
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,魅力音乐
+rtsp://113.136.42.39:554/PLTV/88888888/224/0/3221225550/iptv19032.smil
